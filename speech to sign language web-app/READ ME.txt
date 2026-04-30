@@ -1,0 +1,55 @@
+------------------------------------------------------------------------------------------
+                                  Instruction for set up of 
+                       Real Time Speech to Sign Language Translation App
+------------------------------------------------------------------------------------------
+
+1. SOFTWARE SETUP
+--> Navigate to software file and set up the respective software i.e. PyCharm.
+--> Set up the respective libraries through the terminal, use the following commands-
+    - pip install flask
+    - pip install deep_translator
+
+2.OPEN PYTHON FILE 
+--> Navigate to "E:\codes\PythonProject".
+--> Open 'hushtalk.py'. right click and click on 'open with' with to open using PyCharm.
+OR 
+--> Open PyCharm.
+--> click on the main menu --> open.
+--> select the 'hushtalk.py' file or enter the path "E:\codes\PythonProject\hushtalk.py"
+
+3.RUN THE APPLICATION
+--> Run the 'hushtalk.py' file.
+--> the output will display an IP address to the local host which will be used for testing and development of our network application on the local computer.
+--> Click on the link to ensure the working of the web application.
+
+4. ENSURE ALL THE DATA FILES AND CODES ARE PRESENT.
+--> Ensure all the required files are present.
+
+5. OPEN THE WEBPAGE
+--> Navigate to "E:\codes\PythonProject\templates".
+--> open 'main.html' in the browser.
+
+6.TEST THE PAGE
+--> Test the webpage.
+
+NOTE: If encountered with issues during set up ensure all the paths are correct.
+
+---------------------------------------------------------------------------------------------
+                                    THANK YOU :) 
+---------------------------------------------------------------------------------------------
+Thank you for taking the time to use and explore this project.
+Your support and feedback are greatly appreciated and helps in making continuous improvements.
+Feel free to contribute, suggest ideas, or report issues.
+Happy coding! 
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+    
